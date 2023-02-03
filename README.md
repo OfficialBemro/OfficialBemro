@@ -22,7 +22,7 @@
 - 😎 Call me Bemro!
 - 👨‍💻 I'm a [YouTube.](https://youtube.com/c/Bemro) content creator.
 - ✴️ I'm interested in programming and editing.
-- 🤖 Contact Me - [@BemroChatBot](https://t.me/BemroChatBot) on Telegram / [E mail](mailto:contact.bemro@gmail.com)
+- 🤖 Contact Me - [@BemroChatBot](https://t.me/BemroChatBot) / [E mail](mailto:contact.bemro@gmail.com)
 
 &nbsp;
 
